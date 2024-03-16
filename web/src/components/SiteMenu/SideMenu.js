@@ -1,4 +1,3 @@
-import react from 'react';
 import './SideMenu.css';
 
 export const SideMenu = () =>{

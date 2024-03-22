@@ -70,3 +70,38 @@ Este projeto foi inspirado no trabalho da OpenAI e em sua implementação do mod
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
+
+
+## 👨‍💻 Expert
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/121445530?v=4"
+    />
+    <p>&nbsp&nbsp&nbsp&nbspJunior Oliveria Leandro<br>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/junior-leandro">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="www.linkedin.com/in/junior-leandro">
+        LinkedIn
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.instagram.com/jr_uba">
+        Instagram
+    </a>
+    &nbsp;</p>
+
+<br/>
+
+
+---
+
+Code with 💜 by [Junior](https://github.com/junior-leandro)
